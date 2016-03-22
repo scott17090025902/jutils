@@ -11,6 +11,7 @@ import java.util.Vector;
  * @data:2014年8月10日
  */
 public class WordExportUtils {
+	//scott test
 	Vector[] vector = new Vector[10];
 	
 	String[] strings = new String[10];
